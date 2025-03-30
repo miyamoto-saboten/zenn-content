@@ -3,7 +3,7 @@ title: "作業メモ WindowsでOpenfxプラグインをビルドする"
 emoji: "👣"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Openfx]
-published: false
+published: true
 ---
 
 ## 作業環境
