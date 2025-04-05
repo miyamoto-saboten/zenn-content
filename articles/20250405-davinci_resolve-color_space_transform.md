@@ -9,6 +9,11 @@ published: false
 # 写真撮影に使用したカメラ
 Sony α6400
 
+# カラースペース変換の目的
+各カメラメーカは独自のカラースペースを採用していたりする  
+SonyでいうとS-GamutやS-Gamut3  
+これを一般的なカラースペースに変換することで編集がしやすくなったり、異なるデバイスでの発色のばらつきを防いだりする
+
 # 下準備
 sonyのRAW画像は拡張子「.ARW」で保存されている  
 このままではDaVinci Resolveで扱えないため[Adobe Digital Negative Converter](https://helpx.adobe.com/jp/camera-raw/using/adobe-dng-converter.html)
@@ -21,7 +26,5 @@ sonyのRAW画像は拡張子「.ARW」で保存されている
 ## カラースペース変換設定項目
 ### 入力カラースペース、入力ガンマ
 カメラ側の設定ここに入力する値が変わる  
-Sony α6400では設定項目名は「ピクチャープロファイル」  
-なにも設定していない場合は「Rec.709」でよさそう
-
+Sony α6400では設定項目名は「ピクチャープロファイル」
 
