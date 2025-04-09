@@ -3,7 +3,7 @@ title: "メモ DaVinci Resolve カラースペース変換について"
 emoji: "🦔"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [DaVinci Resolve]
-published: false
+published: true
 ---
 
 # カラースペース変換の目的
