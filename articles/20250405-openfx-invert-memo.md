@@ -3,7 +3,7 @@ title: "メモ Openfxのinvert.cppについて処理の概要まとめ"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [Openfx]
-published: false
+published: true
 ---
 
 # ソースコードURL
