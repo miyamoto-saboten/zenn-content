@@ -3,7 +3,7 @@ title: "メモ DaVinci Resolveで写真加工を行うためのRAW画像の変�
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [DaVinciResolve]
-published: false
+published: true
 ---
 
 　カメラ「Sony α6400」で撮影すると、RAW画像は拡張子「.ARW」で保存される  \
